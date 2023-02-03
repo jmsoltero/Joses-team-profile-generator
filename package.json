@@ -1,0 +1,23 @@
+{
+  "name": "mod10-chall",
+  "version": "1.0.0",
+  "description": "Challenge for module 10",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmsoltero/Joses-team-profile-generator.git"
+  },
+  "author": "Jose Manuel Soltero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmsoltero/Joses-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/jmsoltero/Joses-team-profile-generator#readme"
+}
